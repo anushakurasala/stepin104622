@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1610178222 source:c:\users\anusha\desktop\c++  miniproject\miniproject\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1610178312 c:\users\anusha\desktop\c++  miniproject\miniproject\unity\unity.h
+	"unity_internals.h"
+
+1610178371 c:\users\anusha\desktop\c++  miniproject\miniproject\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
